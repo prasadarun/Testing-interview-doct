@@ -1,0 +1,114 @@
+1.Types of meetings in scrum
+a.Backlog groomimg -- what all the backlogs are in pending will move to next sprint
+b.Sprint plannings -- In the comming sprint what are all the plans etc are discussed
+c.Retrospective call -- we discuss about how the sprint occur, what are the difficulty we faced, any clarifications regarding challanges
+
+
+
+2.Who are present in agile model
+1.Developers - to develop the code
+2.Testers   - to test the application
+3.Business Analysist  - collect the informatiom from client and he will create the stories
+4.Scrummaster - the person who look after all the work and conduct all the meetings
+5.Product owner - he is the reponsible for project.He prioritise the product backlogs according to the market staragety
+
+
+
+3.what is bug life cycle
+a.Tester raise the defect
+b.developer will fix the defect
+c.Tester will retest the defect
+d.If defect is still present then tester close the defect or he will close the defect
+
+4.What is zero sprint
+It means setting up the environemt for project and preparing for backlogs etc are done
+
+5.sdlc - software dev life cycle models
+1.Agile - min priority given to document
+2.Water fall - sequencial model (Planing, develop, testing, deploy) and it is traditionally follow document
+3.incremental
+
+
+6.What are story points
+In order to complete the work the story point are given and it representaion changes from company to company
+
+7.What is agile board 
+The agile board is to control the story ppints and we can get amount of work done etc
+
+8.Types of testing
+a.Functional testing
+1.unit tesing
+2.smoke testing
+3.Sanity testing
+4.interegration testing
+5.UAT testing
+6.Regression testing
+
+b.Non functional testing
+1.Performance testing
+2.Load testing
+3.Monkeytesting
+4.Stress Testing
+5.Battery performance
+6.etc.....
+
+
+9. what are included in testcase doct
+a.story id
+b.Testcase id
+c.summary
+d.Actual result
+e.Expected Result
+f.Bug priority
+
+10.what is smoke testing
+When the tester receive the  1st build from team, then he verify the flows is correct or not and application is stable or not
+
+11.what is sanity testing
+Sanity tesing is done during release of each sprint. During this tester will not depeely check the functionality
+ex:In a e-comerce site when developers develop code for new functionality like(search bar) then in sanity the search functionality is tested on whole sprint
+
+12.Difference between sanity and regression
+when more time is available then tester work on regression but if less time is available then sanity is performed.To reduce the product cost mostly sanity takes place and for regeression it takes more cost
+
+13.what are the fields in bug report
+a.defect id
+b.Defect description and steps to reproduce
+c.Severity of defect
+d.To whoom the defect is assigned
+e.screen shots of bug
+
+14.what if any document are not present for testing
+Tester mainly depend on the screen shots, wireframe works and previous version of application
+
+15.How to get max producvity from testing
+a.Involving everyone in test script peer reviews, defect meetings, and KT sessions is going to ensure that everyone is aware of the application to the best extent possible and encourage the team work with collabration
+
+16.Roles and responsibility of tester
+a.On shore person is the point of contact for offshore and client
+b.getting kt regarding project 
+c.getting  all environment to test the application
+d.sanity and smoke testing
+e.Testing key functionality and review of bug
+f.Maintaining updated proper doct regarding project
+
+17.What mainly included in mobile testing
+a.Test the application is able to run in different platforms 
+b. Installations, uninstalling, launching the app with network and without a network, testing functionality
+c.Obseerving the screens for different mobile
+d.Network connections –WiFi, 2G, etc.
+
+18. if you have reported a bug and developer says he cannot reproduce it. what would you do?
+If developer cannot replicate it then, you need to provide him the exact details of the scenarios that you are trying which is causing the defect, like screenshots, error log details, system logs, test data, environment, or a video recording will also help. Still developer doesn’t replicate it then you probably need to take it to manager for further discussion and decision making in the defect call.
+
+19. If you have 2 hours to execute 30 test cases how would you do it.
+when we have less time but need to complete testing first thing we need to prioritize what test cases are critical and then we can use boundary value analysis and then execute them to finish it soon
+
+20.What is boundary value analysis
+1.It mainly focous on errors 
+example: if password length should be equal to six the according to BVA(boundary value analysis) the test cases will be three .
+a.Check with 5 characters like ABCDE
+b.Check with 6 characters like ABCDEF
+c.Check with 7 characters like ABCDEFG
+
+Note : This applies for numbers also

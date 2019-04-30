@@ -112,3 +112,11 @@ b.Check with 6 characters like ABCDEF
 c.Check with 7 characters like ABCDEFG
 
 Note : This applies for numbers also
+
+
+21.What is test cases and test scenario
+A Test Case is a set of actions executed to verify a particular feature or functionality of your software application
+It is a collective set of test cases which helps the testing team to determine the positive and negative characteristics of the project.
+Test scenario will tell what to test and test cases will tell whether the functionality is working or not
+
+

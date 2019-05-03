@@ -152,3 +152,17 @@ White box Testing: If a car fails to move then like a mechanic we need to examin
 A bug is the result of a coding error
 A defect is a deviation from the requirements
 
+33.What to do when defect is found in production but not during the QA phase? or what is defect lekage? 
+We need to raise the defect in next sprint
+
+34. What qualities should a good Agile tester have?
+Agile tester should be able to understand the requirements quickly.
+Agile tester should know Agile concepts and principals.
+As requirements keep changing, he should understand the risk involve in it.
+Agile tester should be able to prioritize the work based on the requirements.
+
+35.What do you understand by Requirement Traceability Matrix?
+In this we will keep track with new functionalities, how many test cases added, what should be execute, what are pending everything needs to tracked.
+
+36.What are conflicts you had with boss?
+I maintained a good relation with every one till now i worked with them

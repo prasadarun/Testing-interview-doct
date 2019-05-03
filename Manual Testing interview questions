@@ -119,4 +119,36 @@ A Test Case is a set of actions executed to verify a particular feature or funct
 It is a collective set of test cases which helps the testing team to determine the positive and negative characteristics of the project.
 Test scenario will tell what to test and test cases will tell whether the functionality is working or not
 
+23.Duration of sprint ?
+It is mostly less than 4 weeks
+
+24.What is the duration of sprint planing?
+For every week 2 hrs is consisderd and if sprint is for 4 weeks then sprint planning is for 8hrs duration will consisderd 
+
+25.Sprint review?
+In sprint review , the goal of sprint (ex:Login functionlaity) is showed demo to client. If he satisfy then it is accepted,other wise is rejected
+
+26.Duration of sprint review?
+For every week 1hrs is consisderd and if sprint is for 4 weeks then 4 hrs is duration
+
+27.Duration of retrosprictive call?
+For every week 45min is consisderd, if it is for 4 weeks then 3hrs
+
+28.How do write positive and negative test cases?
+From stories available i will start test cases and based on business requirement i will write negative test cases
+
+29.What is product backlog and sprint backlog?
+The product backlog is maintained by PO and it contains all the every feature and requirement for over all requiremnt
+where as sprint backlog is sub-set of product backlog and matained for every sprint 
+
+30.What is velocity?
+It is the mertic to calculate the work progress and it determine how much time required to complete and how much amount of work to be completed
+
+31.Exapmles of black box and white box testing?
+Black box Testing: In a car if we pour disel it should be move (Applying input and getting output)
+White box Testing: If a car fails to move then like a mechanic we need to examine the engine
+
+32.What is the difference between bug and defect ?
+A bug is the result of a coding error
+A defect is a deviation from the requirements
 

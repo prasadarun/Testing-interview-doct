@@ -119,6 +119,21 @@ A Test Case is a set of actions executed to verify a particular feature or funct
 It is a collective set of test cases which helps the testing team to determine the positive and negative characteristics of the project.
 Test scenario will tell what to test and test cases will tell whether the functionality is working or not
 
+
+
+22.What is test plan
+The test plan is as I like to call a ‘super document’ that lists everything there is to know and need. 
+The test plan is a document that lists all the activities in a QA project, schedules them, defines the scope of the project, roles & responsibilities, risks, entry & exit criteria, test objective and anything else that you can think of
+Ex: The test plan defines at what the test should be run and any risks etc completely 
+
+Features of test plan: 
+1.It includes Features to be tested
+2.It includes what features are not be tested
+3.Test deliverables
+4.Roles and reponsibility assigned to whom
+5.Approvals
+
+
 23.Duration of sprint ?
 It is mostly less than 4 weeks
 
